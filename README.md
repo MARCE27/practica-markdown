@@ -28,6 +28,6 @@ Miguel de Cervantes ( 1605)
 [Sitio web de la Universidad Nacional de Costa Rica] (https://www.una.ac.cr/)
 
 ## Imágenes
-! [] ()
+! [] (R Logo. jpg)
 
 ##Listas
