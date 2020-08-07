@@ -31,3 +31,14 @@ Miguel de Cervantes ( 1605)
 ! [] (R Logo. jpg)
 
 ##Listas
+1. Primer elemento
+2. Segundo elemento
+3. Tecer elemento
+
+## Listas no numeradas
+-Primer elemento
+    -1.1.
+    -1.2.
+    -1.3.
+-segundo elemento
+-tercer elemento
