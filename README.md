@@ -37,8 +37,8 @@ Miguel de Cervantes ( 1605)
 
 ## Listas no numeradas
 - Primer elemento
-    -1.1.
-    -1.2.
-    -1.3.
+    - 1.1.
+    - 1.2.
+    - 1.3.
 - segundo elemento
 - tercer elemento
