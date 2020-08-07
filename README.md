@@ -10,7 +10,7 @@
 ## Itálica
 *Texto en itálica*
 \
-_otrotexto en itálica_
+_otro texto en itálica_
 
 ## Negritras
 **texto en negritas**
