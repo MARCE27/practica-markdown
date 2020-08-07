@@ -36,9 +36,9 @@ Miguel de Cervantes ( 1605)
 3. Tecer elemento
 
 ## Listas no numeradas
--Primer elemento
+- Primer elemento
     -1.1.
     -1.2.
     -1.3.
--segundo elemento
--tercer elemento
+- segundo elemento
+- tercer elemento
